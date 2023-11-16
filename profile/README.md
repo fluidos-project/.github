@@ -1,6 +1,6 @@
 ## FLUIDOS Project
 
-![profile/logo-FLUIDOS-project.jpg](profile/logo-FLUIDOS-project.jpg)
+[<img src="./profile/logo-FLUIDOS-project.jpg" width="30" />](./profile/logo-FLUIDOS-project.jpg)
 
 # FLUIDOS vision and objectives
 
