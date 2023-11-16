@@ -1,6 +1,6 @@
 ## FLUIDOS Project
 
-![logo-FLUIDOS-project.jpg](logo-FLUIDOS-project.jpg)
+![profile/logo-FLUIDOS-project.jpg](profile/logo-FLUIDOS-project.jpg)
 
 # FLUIDOS vision and objectives
 
