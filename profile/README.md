@@ -1,6 +1,8 @@
 ## FLUIDOS Project
 
-[<img src="./profile/logo-FLUIDOS-project.jpg" width="30" />](./profile/logo-FLUIDOS-project.jpg)
+<img align="right" src="./profile/logo-FLUIDOS-project.jpg" width="200" />
+
+**FLUIDOS** (**F**lexible, sca**L**able, sec**U**re, and decentral**I**se**D** **O**perating **S**ystem) aims to leverage the enormous, unused processing capacity at the edge, scattered across heterogeneous edge devices that struggle to integrate with each other and to coherently form a seamless computing continuum.
 
 # FLUIDOS vision and objectives
 
